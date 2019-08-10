@@ -26,18 +26,20 @@ Multiple Cube Robots Moving, YouTube: https://youtu.be/NkSaKnVlpGA
 
 ### Phase 3  
 
-Evolving Different Robot Morphology, YouTube: https://youtu.be/ItwSuuhFC3M  
+Different Evolved Robot Morphologies, YouTube: https://youtu.be/ItwSuuhFC3M  
 <img src="Images/RobotZoo.png" width="60%" height="60%">  
 
-Robot Morphology, Robot Moving Video, YouTube: https://youtu.be/x9itOYzMm1k  
+Evolved Morphology Moving, YouTube: https://youtu.be/x9itOYzMm1k  
+<img src="Images/RobotZoo.png" width="60%" height="60%">  
 
+Evolved Morphology Moving when Dropping, YouTube: https://youtu.be/9rHuvvUMqUM  
+<img src="Images/RobotZoo.png" width="60%" height="60%">  
 
-Robot Morphology, Robot Bouncing, YouTube: https://youtu.be/9rHuvvUMqUM  
-
-
-Robot Morphology, Multiple Robots, YouTube: https://youtu.be/B8z7qMbDXek
+Multiple Evolved Morphologies Moving, YouTube: https://youtu.be/B8z7qMbDXek
+<img src="Images/RobotZoo.png" width="60%" height="60%">  
 
 ### Future Phase 
 
 Innovative Robot Moving, YouTube: https://youtu.be/D1MuorOrAQQ  
+<img src="Images/RobotZoo.png" width="60%" height="60%">  
 
