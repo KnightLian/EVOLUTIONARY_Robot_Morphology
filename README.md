@@ -28,7 +28,7 @@ Multiple Cube Robots Moving, YouTube: https://youtu.be/NkSaKnVlpGA
 
 ### Phase 3  
 
-Robot Zoo Robot Zoo, YouTube: https://youtu.be/ItwSuuhFC3M  
+Evolving Different Robot Morphology, YouTube: https://youtu.be/ItwSuuhFC3M  
 <img src="Images/RobotZoo.png" width="60%" height="60%">  
 
 Robot Morphology, Robot Moving Video, YouTube: https://youtu.be/x9itOYzMm1k  
