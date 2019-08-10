@@ -24,7 +24,7 @@ Cube Robot Moving when Dropping, YouTube: https://youtu.be/I1Dhe4EXiVY
 <img src="Images/CubeRobotMovingDropping.png" width="60%" height="60%">   
 
 Multiple Cube Robots Moving, YouTube: https://youtu.be/NkSaKnVlpGA  
-
+<img src="Images/MultipleCubeRobotsMoving.png" width="60%" height="60%">  
 
 ### Phase 3  
 
