@@ -5,13 +5,23 @@ The physics simulator is implemented in VPython. Exactly 1m above a flat plane, 
 ### Phase 1  
 
 Bouncing Cube Dropping without Angle  
-<img src="Images/Dropping_No_Angle.png" width="70%" height="70%">  
+<img src="Images/Dropping_No_Angle.png" width="60%" height="60%">  
 YouTube: https://youtu.be/sOoYNzUU3cI  
 
 Bouncing Cube Dropping with Angle  
-<img src="Images/Dropping_Angle.png" width="70%" height="70%">  
+<img src="Images/Dropping_Angle.png" width="60%" height="60%">  
 YouTube: https://youtu.be/YyZfDnKLnGo  
 
 Breathing Cube  
-<img src="Images/Breathing.png" width="70%" height="70%">   
+<img src="Images/Breathing.png" width="60%" height="60%">   
 YouTube: https://youtu.be/sfoUWRRYVmc  
+
+
+### Phase 2  
+
+
+
+
+### Phase 3  
+
+
