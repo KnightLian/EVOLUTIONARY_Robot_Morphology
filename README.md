@@ -18,6 +18,7 @@ Breathing Cube, YouTube: https://youtu.be/sfoUWRRYVmc
 ### Phase 2  
 
 Cube Robot Moving, YouTube: https://youtu.be/axqB0OySes0 
+<img src="Images/CubeRobotMoving.png" width="60%" height="60%">   
 
 Cube Robot Moving when Dropping, YouTube: https://youtu.be/I1Dhe4EXiVY  
 
