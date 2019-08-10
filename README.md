@@ -28,9 +28,12 @@ Multiple Cube Robots Moving, YouTube: https://youtu.be/NkSaKnVlpGA
 
 ### Phase 3  
 
-Figure 1: Fastest Robot
-Robot Moving Video: https://youtu.be/x9itOYzMm1k
-Robot Bouncing Video: https://youtu.be/9rHuvvUMqUM
+Robot Morphology, Robot Moving Video, YouTube: https://youtu.be/x9itOYzMm1k  
+
+
+Robot Morphology, Robot Bouncing, YouTube: https://youtu.be/9rHuvvUMqUM  
+
+Robot Morphology, Multiple Robots, YouTube: https://youtu.be/B8z7qMbDXek
 
 
 Figure 2: Innovative Robot
@@ -39,16 +42,6 @@ Innovative Robot Moving Video: https://youtu.be/D1MuorOrAQQ
 Figure 2: Innovative Robot
 Innovative Robot Moving Video: https://youtu.be/D1MuorOrAQQ
 
- 
 Figure 3: Robot Zoo
 Robot Zoo Video: https://youtu.be/ItwSuuhFC3M
-
-
- 
-Figure 4: Multiple Robots
-Multiple Robots in One Video: https://youtu.be/B8z7qMbDXek
-
-
-
-
 
