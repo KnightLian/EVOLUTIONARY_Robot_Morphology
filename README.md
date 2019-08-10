@@ -28,20 +28,18 @@ Multiple Cube Robots Moving, YouTube: https://youtu.be/NkSaKnVlpGA
 
 ### Phase 3  
 
+Robot Zoo Robot Zoo, YouTube: https://youtu.be/ItwSuuhFC3M  
+<img src="Images/MultipleCubeRobotsMoving.png" width="60%" height="60%">  
+
 Robot Morphology, Robot Moving Video, YouTube: https://youtu.be/x9itOYzMm1k  
 
 
 Robot Morphology, Robot Bouncing, YouTube: https://youtu.be/9rHuvvUMqUM  
 
+
 Robot Morphology, Multiple Robots, YouTube: https://youtu.be/B8z7qMbDXek
 
+### Future Phase 
 
-Figure 2: Innovative Robot
-Innovative Robot Moving Video: https://youtu.be/D1MuorOrAQQ
- 
-Figure 2: Innovative Robot
-Innovative Robot Moving Video: https://youtu.be/D1MuorOrAQQ
-
-Figure 3: Robot Zoo
-Robot Zoo Video: https://youtu.be/ItwSuuhFC3M
+Innovative Robot Moving, YouTube: https://youtu.be/D1MuorOrAQQ  
 
