@@ -33,7 +33,7 @@ Evolved Morphology Moving, YouTube: https://youtu.be/x9itOYzMm1k
 <img src="Images/EvolvedMorphologyMoving.png" width="60%" height="60%">  
 
 Evolved Morphology Moving when Dropping, YouTube: https://youtu.be/9rHuvvUMqUM  
-<img src="Images/RobotZoo.png" width="60%" height="60%">  
+<img src="Images/EvolvedMorphologyMovingDropping.png" width="60%" height="60%">  
 
 Multiple Evolved Morphologies Moving, YouTube: https://youtu.be/B8z7qMbDXek
 <img src="Images/MultipleEvolvedMorphologyMoving.png" width="60%" height="60%">  
