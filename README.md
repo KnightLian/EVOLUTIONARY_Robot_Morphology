@@ -9,8 +9,6 @@ Cooperated with [Li](https://github.com/davit666), robot morphology has been evo
 " target="_blank"><img src="Images/Dropping_No_Angle.png" 
 alt="IMAGE ALT TEXT HERE" width="60%" height="60%" border="10" /></a>
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/-pdYK9Xg8Jw" frameborder="0" allowfullscreen></iframe>
-
 ### Bouncing Cube Dropping with Angle, YouTube: https://youtu.be/YyZfDnKLnGo  
 <img src="Images/Dropping_Angle.png" width="60%" height="60%">  
   
