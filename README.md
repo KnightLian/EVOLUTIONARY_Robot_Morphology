@@ -2,33 +2,12 @@ Cooperated with [Li](https://github.com/davit666), robot morphology has been evo
 
 ## Phase 1  
 
-### Bouncing Cube Dropping without Angle, YouTube: https://youtu.be/sOoYNzUU3cI    
+### Bouncing Cube Dropping without Angle
+YouTube: https://youtu.be/sOoYNzUU3cI    
 <img src="Images/Dropping_No_Angle.png" width="60%" height="60%">  
-
-
-[![Bouncing Cube Dropping without Angle](Images/Dropping_No_Angle.png)](https://youtu.be/sOoYNzUU3cI)
-
-  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-<a href="https://youtu.be/sOoYNzUU3cI" target="_blank"><img src="Images/Dropping_No_Angle.png" 
-alt="IMAGE ALT TEXT HERE" width="60%" height="60%" border="10" /></a>
-
-  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-  
-<a href="{https://youtu.be/sOoYNzUU3cI}" title="Link Title"><img src="{Images/Dropping_No_Angle.png}" alt="Alternate Text" width="60%" height="60%" border="10" /></a>
-
-[![Alternate Text]({image-url})]({video-url} "Link Title")
-
-
-
-[![Planning for robotic exploration based on forward simulation](http://i.imgur.com/AuwCkYr.png)](https://www.youtube.com/watch?v=-7c_RaZ-KTU)
-
-
-
 
 ### Bouncing Cube Dropping with Angle, YouTube: https://youtu.be/YyZfDnKLnGo  
 <img src="Images/Dropping_Angle.png" width="60%" height="60%">  
-  
 
 ### Breathing Cube, YouTube: https://youtu.be/sfoUWRRYVmc    
 <img src="Images/Breathing.png" width="60%" height="60%">   
