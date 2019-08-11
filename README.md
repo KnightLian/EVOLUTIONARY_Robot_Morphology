@@ -2,13 +2,13 @@ Cooperated with [Li](https://github.com/davit666), robot morphology has been evo
 
 ## Phase 1  
 
-### Bouncing Cube Dropping without Angle
-<img src="Images/Dropping_No_Angle.png" width="60%" height="60%"> YouTube: https://youtu.be/sOoYNzUU3cI  
+Bouncing Cube Dropping without Angle, YouTube: https://youtu.be/sOoYNzUU3cI  
+<img src="Images/Dropping_No_Angle.png" width="60%" height="60%"> 
 
-### Bouncing Cube Dropping with Angle
-<img src="Images/Dropping_Angle.png" width="60%" height="60%"> YouTube: https://youtu.be/YyZfDnKLnGo 
+Bouncing Cube Dropping with Angle, YouTube: https://youtu.be/YyZfDnKLnGo 
+<img src="Images/Dropping_Angle.png" width="60%" height="60%"> 
 
-### Breathing Cube, YouTube: https://youtu.be/sfoUWRRYVmc    
+Breathing Cube, YouTube: https://youtu.be/sfoUWRRYVmc    
 <img src="Images/Breathing.png" width="60%" height="60%">   
 
 ## Phase 2  
