@@ -14,6 +14,22 @@ alt="IMAGE ALT TEXT HERE" width="60%" height="60%" border="10" /></a>
 
 [![Alternate Text]({image-url})]({video-url} "Link Title")
 
+
+# Video and publication
+
+Click the link below to view a video showing the software in action:
+[![Planning for robotic exploration based on forward simulation](http://i.imgur.com/AuwCkYr.png)](https://www.youtube.com/watch?v=-7c_RaZ-KTU)
+
+Further details are available in our journal paper on the subject.
+If you use this code in an academic context, please cite the paper:
+
+Mikko Lauri, Risto Ritala. *Planning for robotic exploration based on forward simulation*, Robotics and Autonomous Systems, Vol 83, (2016), pp. 15-31, DOI: [10.1016/j.robot.2016.06.008](https://doi.org/10.1016/j.robot.2016.06.008)
+
+A preprint version is also [available on arXiv](https://arxiv.org/abs/1502.02474).
+
+BiBTeX:
+
+
 ### Bouncing Cube Dropping with Angle, YouTube: https://youtu.be/YyZfDnKLnGo  
 <img src="Images/Dropping_Angle.png" width="60%" height="60%">  
   
