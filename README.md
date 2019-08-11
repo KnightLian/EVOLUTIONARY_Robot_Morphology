@@ -1,4 +1,4 @@
-Cooperated with [Li](https://github.com/davit666), Robot morphology has been evolved using Evolutionary Computation. The physics simulator is implemented in VPython. 
+Cooperated with [Li](https://github.com/davit666), robot morphology has been evolved using Evolutionary Computation. The physics simulator is implemented in VPython. 
 
 ### Phase 1  
 
