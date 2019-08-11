@@ -41,5 +41,5 @@ Multiple Evolved Morphologies Moving, YouTube: https://youtu.be/B8z7qMbDXek
 ### Future Phase 
 
 Innovative Robot Moving, YouTube: https://youtu.be/D1MuorOrAQQ  
-<img src="Images/RobotZoo.png" width="60%" height="60%">  
+<img src="Images/InnovativeRobotMoving.png" width="60%" height="60%">  
 
